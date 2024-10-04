@@ -46,7 +46,4 @@ Soy Analista de Ciberseguridad, con gran cariño al back-end
 
 
 
----
 
-Credit: [username](https://github.com/Mo-Alsehli)
-Last Edited on: 6/4/2024
