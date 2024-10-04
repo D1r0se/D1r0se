@@ -14,12 +14,11 @@ Soy Analista de Ciberseguridad, con gran cariño al back-end
   <!--h2 without bottom border-->
   <div id="user-content-toc">
     <ul align="left">
-      <summary><h2 style="display: inline-block">Como me contactas🤝</h2></summary>
+      <summary><h2 style="display: inline-block">Contacto🤝</h2></summary>
     </ul>
   <!--icons and links-->
   <p align="left">
   <a href="https://es.linkedin.com/in/cristian-porras-carrasco-ciberseguridad" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-  <a href="dirosegame@gmail.com" target="blank"><img align="center" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/6d935082-a6bb-4f5d-be13-87b821d8421c" alt="gmail" height="50" width="50"  /></a>
   </p>
   </div>
 
@@ -32,7 +31,7 @@ Soy Analista de Ciberseguridad, con gran cariño al back-end
 
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
+  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
 <br/>
